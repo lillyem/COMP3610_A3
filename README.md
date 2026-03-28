@@ -58,3 +58,14 @@ The notebook is organized for reproducible execution from top to bottom.
 - Part 2: Document ingestion, chunking, embeddings, RAG implementation, and evaluation
 - Part 3: Query router, data query handler, and end-to-end integrated demo
 - Part 4: Notebook documentation, code quality improvements, and repository organization
+
+## AI Assistance Disclosure
+
+AI assistance (ChatGPT) was used in the following ways during this assignment:
+
+- Clarifying assignment requirements and marking criteria to ensure all tasks were addressed correctly.
+- Providing guidance on implementing key components such as Spark SQL queries, the RAG pipeline, and query routing logic.
+- Assisting with debugging issues in SQL generation, data processing, and LLM responses.
+- Helping validate whether outputs from different sections (Spark results, RAG retrieval, evaluation metrics, and end-to-end demo outputs) were reasonable and aligned with expectations.
+- Suggesting improvements to prompt design for SQL generation, RAG grounding, and hybrid response synthesis.
+- Generating the `README.md`, `.gitignore`, and `requirements.txt`, and ensuring consistency with the notebook.
