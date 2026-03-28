@@ -31,9 +31,20 @@ The notebook is organized for reproducible execution from top to bottom.
 
 ## How to Run
 
-1. Open `assignment3.ipynb` in Jupyter or Colab.
-2. Run all cells sequentially from top to bottom.
-3. Keep outputs visible for submission.
+1. Set your API key using Google Colab Secrets:
+
+   - In Colab, click the **(Secrets)** tab in the left sidebar
+   - Add a new secret:
+     - Name: `LLM_API_KEY`
+     - Value: your provided course API key
+
+2. Open `assignment3.ipynb` in Google Colab.
+
+3. Run all cells sequentially from top to bottom.
+
+4. Ensure all outputs remain visible before submission.
+
+**Note:** The API key is not included in this repository for security reasons.
 
 ## Notes
 
